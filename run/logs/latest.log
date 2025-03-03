@@ -1,0 +1,104 @@
+[03Mar2025 15:35:23.697] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeclientuserdev, --version, 21.1.128, --assetIndex, 17, --assetsDir, C:\Users\Anoop Singh\.gradle\caches\neoformruntime\assets, --gameDir, ., --fml.neoForgeVersion, 21.1.128, --fml.fmlVersion, 4.0.38, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430]
+[03Mar2025 15:35:23.699] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.5+11-LTS
+[03Mar2025 15:35:23.700] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.4+main.d2e20e43 starting: java version 21.0.5 by Eclipse Adoptium; OS Windows 10 arch amd64 version 10.0
+[03Mar2025 15:35:23.782] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[03Mar2025 15:35:23.871] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[03Mar2025 15:35:24.023] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[03Mar2025 15:35:24.098] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/C:/Users/Anoop%20Singh/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/2af2f021d8e02a0220dc27a7a72b4666d66d44ca/sponge-mixin-0.15.2+mixin.0.8.7.jar%23131!/ Service=ModLauncher Env=CLIENT
+[03Mar2025 15:35:24.301] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2 GL version 4.6.0 NVIDIA 572.60, NVIDIA Corporation
+[03Mar2025 15:35:24.452] [main/WARN] [net.neoforged.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: flywheel. Using Mod File: C:\Users\Anoop Singh\.gradle\caches\modules-2\files-2.1\dev.engine-room.flywheel\flywheel-neoforge-1.21.1\1.0.0-9\7af2340668365530f419ab71f34b81e6ef51fbb0\flywheel-neoforge-1.21.1-1.0.0-9.jar
+[03Mar2025 15:35:24.452] [main/WARN] [net.neoforged.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: ponder. Using Mod File: C:\Users\Anoop Singh\.gradle\caches\modules-2\files-2.1\net.createmod.ponder\Ponder-NeoForge-1.21.1\1.0.39\73f36f4d732782aef8bb15a3010df3abc5cc9a1d\Ponder-NeoForge-1.21.1-1.0.39.jar
+[03Mar2025 15:35:24.452] [main/WARN] [net.neoforged.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: library:Registrate.MC1._21._62. Using Mod File: C:\Users\Anoop Singh\.gradle\caches\modules-2\files-2.1\com.tterrag.registrate\Registrate\MC1.21-1.3.0+62\e8ca9c96f9e3535e4dbf2e57699e0d1c7783fec2\Registrate-MC1.21-1.3.0+62.jar
+[03Mar2025 15:35:24.453] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[03Mar2025 15:35:24.453] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Balm 21.0.31 (balm)
+		Create 6.0.0 (create)
+		Create: Waystones Recipes 2.0.0-NeoForge-1.21.1 (create_waystones_recipes)
+		Curios API 9.2.2+1.21.1 (curios)
+		Flywheel 1.0.0 (flywheel)
+		Just Enough Items 19.21.0.247 (jei)
+		KumaAPI 21.0.5-SNAPSHOT (kuma_api)
+		Minecraft 1.21.1 (minecraft)
+		NeoForge 21.1.128 (neoforge)
+		Ponder 1.0.39 (ponder)
+		Waystones 21.1.11 (waystones)
+[03Mar2025 15:35:25.115] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Mar2025 15:35:25.117] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[03Mar2025 15:35:25.133] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclientuserdev' with arguments [--version, 21.1.128, --gameDir, ., --assetsDir, C:\Users\Anoop Singh\.gradle\caches\neoformruntime\assets, --assetIndex, 17]
+[03Mar2025 15:35:25.161] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Mar2025 15:35:25.166] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Mar2025 15:35:25.166] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Mar2025 15:35:25.167] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Mar2025 15:35:25.167] [main/WARN] [mixin/]: Reference map 'ponder.refmap.json' for ponder.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Mar2025 15:35:25.170] [main/WARN] [mixin/]: Reference map 'create.refmap.json' for create.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Mar2025 15:35:25.170] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Mar2025 15:35:25.171] [main/WARN] [mixin/]: Reference map 'create_waystones_recipes.refmap.json' for create_waystones_recipes.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Mar2025 15:35:25.487] [main/WARN] [mixin/]: Error loading class: journeymap/client/render/map/MapRenderer (java.lang.ClassNotFoundException: journeymap.client.render.map.MapRenderer)
+[03Mar2025 15:35:25.487] [main/WARN] [mixin/]: @Mixin target journeymap.client.render.map.MapRenderer was not found create.mixins.json:compat.journeymap.MapRendererAccessor from mod create
+[03Mar2025 15:35:25.516] [main/WARN] [mixin/]: Error loading class: journeymap/client/ui/fullscreen/Fullscreen (java.lang.ClassNotFoundException: journeymap.client.ui.fullscreen.Fullscreen)
+[03Mar2025 15:35:25.516] [main/WARN] [mixin/]: @Mixin target journeymap.client.ui.fullscreen.Fullscreen was not found create.mixins.json:compat.journeymap.JourneyFullscreenMapMixin from mod create
+[03Mar2025 15:35:25.570] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03Mar2025 15:35:26.876] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 229 Datafixer optimizations took 322 milliseconds
+[03Mar2025 15:35:29.829] [pool-15-thread-1/ERROR] [net.minecraft.Util/]: Registry 'create:arm_interaction_point_type' was empty after loading
+[03Mar2025 15:35:29.829] [pool-15-thread-1/ERROR] [net.minecraft.Util/]: Registry 'create:fan_processing_type' was empty after loading
+[03Mar2025 15:35:29.829] [pool-15-thread-1/ERROR] [net.minecraft.Util/]: Registry 'create:item_attribute_type' was empty after loading
+[03Mar2025 15:35:29.829] [pool-15-thread-1/ERROR] [net.minecraft.Util/]: Registry 'create:display_source' was empty after loading
+[03Mar2025 15:35:29.829] [pool-15-thread-1/ERROR] [net.minecraft.Util/]: Registry 'create:display_target' was empty after loading
+[03Mar2025 15:35:29.829] [pool-15-thread-1/ERROR] [net.minecraft.Util/]: Registry 'create:mounted_item_storage_type' was empty after loading
+[03Mar2025 15:35:29.829] [pool-15-thread-1/ERROR] [net.minecraft.Util/]: Registry 'create:mounted_fluid_storage_type' was empty after loading
+[03Mar2025 15:35:29.830] [pool-15-thread-1/ERROR] [net.minecraft.Util/]: Registry 'create:contraption_type' was empty after loading
+[03Mar2025 15:35:29.830] [pool-15-thread-1/ERROR] [net.minecraft.Util/]: Registry 'create:package_port_target_type' was empty after loading
+[03Mar2025 15:35:29.830] [pool-15-thread-1/ERROR] [net.minecraft.Util/]: Registry 'create:potato_projectile/render_mode' was empty after loading
+[03Mar2025 15:35:29.830] [pool-15-thread-1/ERROR] [net.minecraft.Util/]: Registry 'create:potato_projectile/entity_hit_action' was empty after loading
+[03Mar2025 15:35:29.830] [pool-15-thread-1/ERROR] [net.minecraft.Util/]: Registry 'create:potato_projectile/block_hit_action' was empty after loading
+[03Mar2025 15:35:30.353] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03Mar2025 15:35:30.354] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03Mar2025 15:35:30.356] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03Mar2025 15:35:30.356] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03Mar2025 15:35:30.357] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03Mar2025 15:35:30.442] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/D:/Download/MOD/createextracasing/Create_Waystones_Recipes/build/moddev/artifacts/neoforge-21.1.128.jar%23183!/assets/.mcassetsroot' uses unexpected schema
+[03Mar2025 15:35:30.442] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/D:/Download/MOD/createextracasing/Create_Waystones_Recipes/build/moddev/artifacts/neoforge-21.1.128.jar%23183!/data/.mcassetsroot' uses unexpected schema
+[03Mar2025 15:35:30.459] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03Mar2025 15:35:30.466] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[03Mar2025 15:35:30.529] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.3+5
+[03Mar2025 15:35:30.702] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.128, for MC 1.21.1
+[03Mar2025 15:35:30.752] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.0 initializing! Commit hash: 8e002e49fa52793b31e6dccd0a248077a41da4c7
+[03Mar2025 15:35:30.762] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[03Mar2025 15:35:30.765] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 1.389 ms
+[03Mar2025 15:35:32.184] [modloading-sync-worker/WARN] [com.simibubi.create.Create/]: Could not find block entity type computercraft:wired_modem_full. Outdated compat?
+[03Mar2025 15:35:32.184] [modloading-sync-worker/WARN] [com.simibubi.create.Create/]: Could not find block entity type computercraft:computer_normal. Outdated compat?
+[03Mar2025 15:35:32.184] [modloading-sync-worker/WARN] [com.simibubi.create.Create/]: Could not find block entity type computercraft:computer_advanced. Outdated compat?
+[03Mar2025 15:35:32.184] [modloading-sync-worker/WARN] [com.simibubi.create.Create/]: Could not find block entity type computercraft:computer_command. Outdated compat?
+[03Mar2025 15:35:32.980] [Render thread/INFO] [net.neoforged.neoforge.gametest.GameTestHooks/]: Enabled Gametest Namespaces: [create_waystones_recipes]
+[03Mar2025 15:35:33.178] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources, mod/kuma_api, mod/flywheel, mod/curios, mod/waystones, mod/ponder, mod/create, mod/neoforge, mod/balm, mod/create_waystones_recipes, mod/jei
+[03Mar2025 15:35:33.264] [Worker-Main-9/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.1.05.hex, loading
+[03Mar2025 15:35:33.320] [Worker-Main-3/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_jp_patch-15.1.05.hex, loading
+[03Mar2025 15:35:34.821] [Worker-Main-6/INFO] [PonderIndex/]: Registering Ponder Scenes took 44.00 ms
+[03Mar2025 15:35:34.825] [Worker-Main-6/INFO] [PonderIndex/]: Registering Ponder Tags took 2.856 ms
+[03Mar2025 15:35:34.907] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[03Mar2025 15:35:34.907] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[03Mar2025 15:35:34.937] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on R25f-30 (NVIDIA High Definition Audio)
+[03Mar2025 15:35:34.937] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[03Mar2025 15:35:35.039] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[03Mar2025 15:35:35.047] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[03Mar2025 15:35:35.047] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[03Mar2025 15:35:35.047] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[03Mar2025 15:35:35.048] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[03Mar2025 15:35:35.052] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[03Mar2025 15:35:35.052] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[03Mar2025 15:35:35.052] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[03Mar2025 15:35:35.052] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[03Mar2025 15:35:35.098] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[03Mar2025 15:35:35.099] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[03Mar2025 15:35:35.099] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[03Mar2025 15:35:35.099] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[03Mar2025 15:35:35.099] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[03Mar2025 15:35:35.114] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[03Mar2025 15:35:35.188] [Render thread/INFO] [flywheel/backend/shaders/]: Loaded 75 shader sources in 14.960 ms
+[03Mar2025 15:35:35.202] [Render thread/INFO] [com.simibubi.create.Create/]: Loaded 51 train hat configurations.
+[03Mar2025 15:35:35.202] [Render thread/INFO] [net.neoforged.neoforge.client.entity.animation.json.AnimationLoader/]: Loaded 0 entity animations
+[03Mar2025 15:35:35.203] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
+[03Mar2025 15:35:45.949] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!

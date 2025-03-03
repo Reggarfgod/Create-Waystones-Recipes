@@ -1,0 +1,32 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "create:copper_casing"
+    },
+    "O": {
+      "item": "minecraft:ender_pearl"
+    },
+    "P": {
+      "tag": "minecraft:stone_bricks"
+    },
+    "S": {
+      "item": "waystones:warp_stone"
+    }
+  },
+  "pattern": [
+    " OOO ",
+    "PPPPP",
+    " AAA ",
+    "  S  ",
+    " AAA ",
+    "PPPPP"
+  ],
+  "result": {
+    "count": 2,
+    "id": "waystones:mossy_waystone"
+  },
+  "show_notification": false
+}
