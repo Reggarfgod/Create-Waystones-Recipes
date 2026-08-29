@@ -1,0 +1,27 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "create:andesite_casing"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "S": {
+      "item": "minecraft:stone_bricks"
+    },
+    "W": {
+      "item": "waystones:warp_dust"
+    }
+  },
+  "pattern": [
+    "AAAAA",
+    "S W S",
+    "S F S",
+    "AASAA"
+  ],
+  "result": {
+    "item": "waystones:warp_plate"
+  }
+}

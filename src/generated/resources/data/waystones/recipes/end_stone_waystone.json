@@ -1,0 +1,30 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "create:brass_casing"
+    },
+    "O": {
+      "item": "minecraft:ender_pearl"
+    },
+    "P": {
+      "item": "minecraft:end_stone_bricks"
+    },
+    "S": {
+      "item": "waystones:warp_stone"
+    }
+  },
+  "pattern": [
+    " OOO ",
+    "AAAAA",
+    " PPP ",
+    "  S  ",
+    " PPP ",
+    "AAPAA"
+  ],
+  "result": {
+    "count": 2,
+    "item": "waystones:end_stone_waystone"
+  }
+}

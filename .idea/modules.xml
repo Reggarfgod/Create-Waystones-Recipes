@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Create-Waystones-Recipes.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Create-Waystones-Recipes.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Create-Waystones-Recipes.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Create-Waystones-Recipes.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/create_waystones_recipes.main.iml" filepath="$PROJECT_DIR$/.idea/modules/create_waystones_recipes.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/create_waystones_recipes.test.iml" filepath="$PROJECT_DIR$/.idea/modules/create_waystones_recipes.test.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,24 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "G": {
+      "tag": "balm:emeralds"
+    },
+    "P": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "pattern": [
+    " AAA ",
+    "GPPPG",
+    "GPPPG",
+    " APA "
+  ],
+  "result": {
+    "item": "waystones:warp_stone"
+  }
+}

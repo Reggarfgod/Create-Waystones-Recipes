@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_dyed_sharestone": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "waystones:dyed_sharestone"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "waystones:clear_sharestone"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_dyed_sharestone",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "waystones:clear_sharestone"
+    ]
+  },
+  "sends_telemetry_event": false
+}

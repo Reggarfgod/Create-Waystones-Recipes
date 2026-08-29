@@ -1,0 +1,30 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "create:andesite_casing"
+    },
+    "O": {
+      "item": "minecraft:ender_pearl"
+    },
+    "P": {
+      "item": "minecraft:deepslate_bricks"
+    },
+    "S": {
+      "item": "waystones:warp_stone"
+    }
+  },
+  "pattern": [
+    " OOO ",
+    "AAAAA",
+    " PPP ",
+    "  S  ",
+    " PPP ",
+    "AAPAA"
+  ],
+  "result": {
+    "count": 2,
+    "item": "waystones:deepslate_waystone"
+  }
+}

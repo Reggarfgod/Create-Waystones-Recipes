@@ -4,10 +4,9 @@
     <facet type="minecraft" name="Minecraft">
       <configuration>
         <autoDetectTypes>
-          <platformType>ARCHITECTURY</platformType>
-          <platformType>MIXIN</platformType>
-          <platformType>NEOFORGE</platformType>
           <platformType>MCP</platformType>
+          <platformType>MIXIN</platformType>
+          <platformType>FORGE</platformType>
         </autoDetectTypes>
         <projectReimportVersion>1</projectReimportVersion>
       </configuration>

@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "create:andesite_casing"
+    },
+    "P": {
+      "item": "minecraft:stone_bricks"
+    },
+    "S": {
+      "item": "waystones:warp_stone"
+    }
+  },
+  "pattern": [
+    "AAAAA",
+    " PPP ",
+    "  S  ",
+    " PPP ",
+    "AAPAA"
+  ],
+  "result": {
+    "count": 2,
+    "item": "waystones:sharestone"
+  }
+}

@@ -1,17 +1,19 @@
 package com.reggarf.mods.create_waystones_recipes;
 
-import com.simibubi.create.foundation.data.CreateRegistrate;
-import net.blay09.mods.waystones.Waystones;
-import net.minecraft.resources.ResourceKey;
-import net.minecraft.resources.ResourceLocation;
-import net.minecraft.world.item.CreativeModeTab;
-import net.neoforged.bus.api.IEventBus;
-import net.neoforged.fml.ModContainer;
-import net.neoforged.fml.common.Mod;
+import net.minecraftforge.api.distmarker.Dist;
+import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
+import net.minecraftforge.event.server.ServerStartingEvent;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
+import net.minecraftforge.fml.common.Mod.EventBusSubscriber.Bus;
+import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
+import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 
-@Mod(Create_waystones_recipes.MODID)
+@Mod("create_waystones_recipes")
 public class Create_waystones_recipes {
     public static final String MODID = "create_waystones_recipes";
+
     public Create_waystones_recipes() {
     }
 }

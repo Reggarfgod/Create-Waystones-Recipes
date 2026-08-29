@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "D": {
+      "tag": "balm:purple_dyes"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "G": {
+      "tag": "balm:gold_nuggets"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "pattern": [
+    "GGGGG",
+    "DPPPD",
+    "DPEPD",
+    "GGPGG"
+  ],
+  "result": {
+    "count": 3,
+    "item": "waystones:warp_scroll"
+  }
+}
