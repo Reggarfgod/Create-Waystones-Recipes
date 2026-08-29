@@ -6,25 +6,25 @@
     "A": {
       "item": "create:andesite_casing"
     },
-    "B": {
-      "item": "minecraft:brown_dye"
+    "D": {
+      "tag": "c:dyes/brown"
     },
     "P": {
-      "tag": "minecraft:stone_bricks"
+      "item": "minecraft:stone_bricks"
     },
     "S": {
       "item": "waystones:warp_stone"
     }
   },
   "pattern": [
-    "PPAPP",
-    " ABA ",
+    "AAAAA",
+    "DPPPD",
     "  S  ",
-    " ABA ",
-    "PPPPP"
+    " PPP ",
+    "AAPAA"
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "id": "waystones:brown_sharestone"
   },
   "show_notification": false

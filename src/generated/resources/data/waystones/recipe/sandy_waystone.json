@@ -10,7 +10,7 @@
       "item": "minecraft:ender_pearl"
     },
     "P": {
-      "tag": "minecraft:stone_bricks"
+      "item": "minecraft:stone_bricks"
     },
     "S": {
       "item": "waystones:warp_stone"
@@ -18,14 +18,14 @@
   },
   "pattern": [
     " OOO ",
-    "PPPPP",
-    " AAA ",
+    "AAAAA",
+    " PPP ",
     "  S  ",
-    " AAA ",
-    "PPPPP"
+    " PPP ",
+    "AAPAA"
   ],
   "result": {
-    "count": 2,
+    "count": 3,
     "id": "waystones:sandy_waystone"
   },
   "show_notification": false

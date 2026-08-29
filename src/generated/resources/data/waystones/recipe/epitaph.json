@@ -1,0 +1,27 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "D": {
+      "item": "minecraft:deepslate"
+    },
+    "G": {
+      "tag": "c:nuggets/gold"
+    }
+  },
+  "pattern": [
+    "GGGGG",
+    "A D A",
+    "A D A",
+    "GGDGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "waystones:epitaph"
+  },
+  "show_notification": false
+}

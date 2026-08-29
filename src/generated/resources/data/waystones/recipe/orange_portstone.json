@@ -6,23 +6,23 @@
     "A": {
       "item": "create:andesite_casing"
     },
-    "B": {
-      "item": "minecraft:orange_dye"
+    "D": {
+      "tag": "c:dyes/orange"
     },
     "P": {
-      "tag": "minecraft:stone_bricks"
+      "item": "minecraft:stone_bricks"
     },
     "S": {
       "item": "waystones:warp_stone"
     }
   },
   "pattern": [
-    "  S  ",
-    " BAB ",
-    "PPAPP"
+    " DSD ",
+    " PPP ",
+    "AAPAA"
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "id": "waystones:orange_portstone"
   },
   "show_notification": false

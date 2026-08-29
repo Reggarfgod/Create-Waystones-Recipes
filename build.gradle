@@ -122,8 +122,8 @@ dependencies {
     implementation("com.tterrag.registrate:Registrate:${registrate_version}")
     implementation "curse.maven:curios-309927:6076118"
     implementation "curse.maven:jei-238222:5846880"
-    implementation "curse.maven:waystones-245755:6225072"
-    implementation "curse.maven:balm-531761:6224887"
+    implementation "curse.maven:waystones-245755:8645538"
+    implementation "curse.maven:balm-531761:8645517"
     // Example mod dependency with JEI
     // The JEI API is declared for compile time use, while the full JEI artifact is used at runtime
     // compileOnly "mezz.jei:jei-${mc_version}-common-api:${jei_version}"

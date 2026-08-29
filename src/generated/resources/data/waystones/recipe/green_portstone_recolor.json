@@ -1,0 +1,63 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:dyes/green"
+    },
+    [
+      {
+        "item": "waystones:white_portstone"
+      },
+      {
+        "item": "waystones:orange_portstone"
+      },
+      {
+        "item": "waystones:magenta_portstone"
+      },
+      {
+        "item": "waystones:light_blue_portstone"
+      },
+      {
+        "item": "waystones:yellow_portstone"
+      },
+      {
+        "item": "waystones:lime_portstone"
+      },
+      {
+        "item": "waystones:pink_portstone"
+      },
+      {
+        "item": "waystones:gray_portstone"
+      },
+      {
+        "item": "waystones:light_gray_portstone"
+      },
+      {
+        "item": "waystones:cyan_portstone"
+      },
+      {
+        "item": "waystones:purple_portstone"
+      },
+      {
+        "item": "waystones:blue_portstone"
+      },
+      {
+        "item": "waystones:brown_portstone"
+      },
+      {
+        "item": "waystones:green_portstone"
+      },
+      {
+        "item": "waystones:red_portstone"
+      },
+      {
+        "item": "waystones:black_portstone"
+      }
+    ]
+  ],
+  "result": {
+    "count": 1,
+    "id": "waystones:green_portstone"
+  }
+}

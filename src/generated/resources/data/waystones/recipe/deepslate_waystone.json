@@ -18,11 +18,11 @@
   },
   "pattern": [
     " OOO ",
-    "PPPPP",
-    " AAA ",
+    "AAAAA",
+    " PPP ",
     "  S  ",
-    " AAA ",
-    "PPPPP"
+    " PPP ",
+    "AAPAA"
   ],
   "result": {
     "count": 2,
